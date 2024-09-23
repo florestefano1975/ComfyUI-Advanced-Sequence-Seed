@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-advanced-sequence-seed"
+description = "A simple seed generator based on special number sequences: Fibonacci, Prime, Padovan, Triangular, Catalan, Pell, Lucas"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/florestefano1975/ComfyUI-Advanced-Sequence-Seed"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Advanced-Sequence-Seed"
+Icon = ""
